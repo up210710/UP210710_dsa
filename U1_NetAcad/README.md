@@ -32,7 +32,7 @@ while Er >= Es:
 print(xm)
 '''
 <div align="center">
-<img alt="Xd" src='imagenes/WK1.png' width='400'>
+<img alt="Xd" src='imagenes/WK1.png' width='600'>
 </div>
 
 # Exercise 2 Secret number
@@ -56,7 +56,7 @@ while True:
         print("Bajale")
 '''
 <div align="center">
-<img alt="Xd" src='imagenes/WK2.png' width='400'>
+<img alt="Xd" src='imagenes/WK2.png' width='600'>
 </div>
 
 
@@ -82,7 +82,7 @@ print("La total de la suma fue: ",suma)
 print("Los tickets que se ajustaron fue: ",c-1)
 '''
 <div align="center">
-<img alt="Xd" src='imagenes/WK3.png' width='400'>
+<img alt="Xd" src='imagenes/WK3.png' width='600'>
 </div>
 
 
@@ -107,7 +107,7 @@ while swapped:
 print(lista)
 '''
 <div align="center">
-<img alt="Xd" src='imagenes/WK4.png' width='400'>
+<img alt="Xd" src='imagenes/WK4.png' width='600'>
 </div>
 
 
@@ -136,7 +136,7 @@ if __name__ == "__main__":
   main()
 '''
 <div align="center">
-<img alt="Xd" src='imagenes/WK5.png' width='400'>
+<img alt="Xd" src='imagenes/WK5.png' width='600'>
 </div>
 
 
@@ -169,6 +169,6 @@ else:
     print("La entrada no es una palabra palíndromo.")
 '''
 <div align="center">
-<img alt="Xd" src='imagenes/WK6.png' width='400'>
+<img alt="Xd" src='imagenes/WK6.png' width='600'>
 </div>
 
